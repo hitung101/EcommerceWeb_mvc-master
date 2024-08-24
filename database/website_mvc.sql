@@ -46,7 +46,7 @@ CREATE TABLE `tbl_admin` (
 --
 
 INSERT INTO `tbl_admin` (`adminID`, `adminName`, `adminEmail`, `adminUser`, `adminPass`, `adminAddress`, `adminPhone`, `adminBirth`, `adminImage`, `adminPermissions`, `level`) VALUES
-(1, 'hiep', 'hiep@gmail.com', 'hieptd', 'e10adc3949ba59abbe56e057f20f883e', 'hh', 'hh', '2022-06-22', '543d7bac07.png', 'listBill', 0),
+(1, 'tung', 'tung@gmail.com', 'vantung', 'e10adc3949ba59abbe56e057f20f883e', 'hh', 'hh', '2022-06-22', '543d7bac07.png', 'listBill', 0),
 (23, 'x', 'x', 'x', 'x', 'x', 'x', '2003-06-04', '6ba7c5ce2b.png', '', 1),
 (26, 'c', 'c', 'c', 'c', 'c', 'c', '2022-06-01', '16dc85494f.png', 'addCate, listCate, updateCate, deleteCate, addBrand, listBrand, updateBrand, deleteBrand, addProduct, listProduct, updateProduct, deleteProduct, listBill, confirmBill, deleteBill, listCustomer, deleteCustomer, addAdmin, listAdmin, updateAdmin, deleteAdmin, listStatistics', 1);
 
